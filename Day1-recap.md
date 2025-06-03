@@ -6,6 +6,7 @@
 - Created my first VM snapshot (backup)
 - Updated the virtual machine using `sudo apt update && sudo apt upgrade -y`
 - Tested network connectivity and explored SSH connection (connection issue noted – to be fixed later)
+- Started learning Python basics: working with loops, functions, and simple string manipulations.
 
 **What was easy:**  
 Setting up GitHub and running basic terminal commands.
