@@ -9,22 +9,22 @@
 ## Code examples
 
 """ Exercise code
-# For - repeating something x times
+ For - repeating something x times
 for i in range(5):
     print("This is number", i)
 
-# Practical example - checking the port list
+ Practical example - checking the port list
 ports = [22, 80, 443]
 for port in ports:
     print("Checking port", port)
 
-# While – repeat while something is true
+ While – repeat while something is true
 count = 0
 while count < 5:
     print("Count to:", count)
     count += 1
 
-# def function - we pack the code into a "box"
+ def function - we pack the code into a "box"
 def greeting(name):
     print("Hello", name, "nice to meet you")
 greeting("Adrian")
