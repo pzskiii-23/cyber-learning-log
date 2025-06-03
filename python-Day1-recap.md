@@ -35,6 +35,7 @@ greeting("Adrian")
 words = ["cybersecurity", "is", "awesome"]
 for word in words:
     print(word.upper())
+```
 
 ## Summary
 
