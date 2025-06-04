@@ -9,5 +9,5 @@ My daily journey to first cybersecurity job 🚀
 ## DAY 2
 - [DAY 2 Recap](Day2-recap.md)
 - [Networking commands](networking-commands.md)
-- [TryHackMe DAY 2 Recap](TryHackMe-Day1-recap.md)
+- [TryHackMe DAY 2 Recap](TryHackMe-Day2-recap.md)
 - [Python DAY 2 Recap](python-Day2-recap.md)
