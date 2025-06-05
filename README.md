@@ -13,7 +13,7 @@ My daily journey to first cybersecurity job 🚀
 - [TryHackMe DAY 2 Recap](tryhackme-recaps/TryHackMe-Day2-recap.md)
 - [Python DAY 2 Recap](python-recaps/python-Day2-recap.md)
 
-## DAY 2
+## DAY 3
 - [DAY 3 Recap](days-recaps/Day3-recap.md)
 - [Networking commands](notes/day3-networking-commands.md)
 - [TryHackMe DAY 3 Recap](tryhackme-recaps/TryHackMe-Day2-recap.md)

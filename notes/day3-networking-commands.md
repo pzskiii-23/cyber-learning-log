@@ -15,6 +15,8 @@ ping 8.8.8.8        # Test external connectivity (Google DNS)
 ping google.com     # Test DNS and network
 traceroute 8.8.8.8  # Show path to an external IP (if installed)
 
+```
+
 **What was easy**
 - Checking IP addresses, gateways, and using ping to test connectivity.
 
